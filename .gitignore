@@ -8,7 +8,9 @@
 Dependences/ogre-1.11.5/BUILD
 Dependences/bullet-2.82-r2704/build
 /SMSM/Dependences/ogre-1.11.5/CMake
-Libs/
+/SMSM/Dependences/ogre-1.11.5/Docs
+/SMSM/Dependences/ogre-1.11.5/Tests
+
 
 
 # User-specific files
