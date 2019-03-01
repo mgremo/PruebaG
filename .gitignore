@@ -4,8 +4,12 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-#Carpetas nuestras creadas por nosotros
-Dependencias/
+#Carpetas nuestras
+Dependences/ogre-1.11.5/BUILD
+Dependences/bullet-2.82-r2704/build
+/SMSM/Dependences/ogre-1.11.5/CMake
+Libs/
+
 
 # User-specific files
 *.suo
