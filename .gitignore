@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
+#Carpetas nuestras creadas por nosotros
+Dependencias/
+
 # User-specific files
 *.suo
 *.user
@@ -11,7 +15,6 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-Dependencias/
 
 # Build results
 [Dd]ebug/
