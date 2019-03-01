@@ -1,0 +1,2 @@
+# PruebaG
+Prueba gitignore
